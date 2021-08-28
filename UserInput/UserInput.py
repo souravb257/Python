@@ -1,0 +1,15 @@
+fastname = input("Enter your FastName: ")
+lastname = input("Enter your LastName: ")
+age = input("Enter your age: ")
+address = input("Enter your Address: ")
+email = input("Enter your Email: ")
+phone = input("Enter your Phone Number: ")
+
+print("***********************")
+
+print("Here is your information........")
+print("Name:" +fastname  + lastname)
+print("Age:" +age)
+print("Address:" +address)
+print("Email:" +email)
+print("Phone:" +phone)
